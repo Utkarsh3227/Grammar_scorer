@@ -1,4 +1,4 @@
-# Grammar_scorer
+# Grammar scoring engine for voice samples
 
 **Task: Grammatical Quality Prediction**
 
